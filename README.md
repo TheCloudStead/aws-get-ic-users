@@ -73,4 +73,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 Thank you to the readers of my Medium articles!
----
