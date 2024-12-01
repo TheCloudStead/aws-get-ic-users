@@ -69,7 +69,7 @@ python main.py
 This will fetch all users, groups, permissions sets, and their relationships, and then output them in a neat, readable tree structure using Rich.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 Thank you to the readers of my Medium articles!
